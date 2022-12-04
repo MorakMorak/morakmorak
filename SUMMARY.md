@@ -1,6 +1,6 @@
 # Table of contents
 
-* [MorakMorak API Guide](README.md)
+* [MorakMorak Team Docs](README.md)
 * [Preface](preface.md)
 * [회원 인증(Auth)](auth/README.md)
   * [email 본인인증](auth/email.md)
@@ -30,3 +30,4 @@
 * [이미지 처리(Files)](files.md)
 * [채용 정보 크롤링(Calendar)](calendar.md)
 * [회원 랭킹(Ranks)](ranks.md)
+* [BE](be.md)
